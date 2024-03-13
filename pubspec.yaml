@@ -4,7 +4,7 @@ version: 0.0.8
 homepage: https://github.com/lustea00/flutter_number_captcha
 
 environment:
-  sdk: ">=2.16.1 <3.0.0"
+  sdk: '>=3.2.6 <4.0.0'
   flutter: ">=2.5.0"
 
 dependencies:
